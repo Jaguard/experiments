@@ -1,4 +1,11 @@
-# experiments [![Build Status](https://secure.travis-ci.org/jaguard/experiments.png?branch=master)](http://travis-ci.org/jaguard/experiments) [![NPM version](https://badge-me.herokuapp.com/api/npm/experiments.png)](http://badges.enytc.com/for/npm/experiments)
+# experiments by [![Jaguard OSS 100%](http://img.shields.io/badge/Jaguard OSS-100%-red.svg)](http://oss.jaguard.com)
+
+ Status info | Badge 
+------------ | -------------
+ Travis-CI build | [![Build Status](http://img.shields.io/travis/jaguard/experiments.svg)](http://travis-ci.org/jaguard/experiments) 
+ Drone.io build | [![Build Status](https://drone.io/github.com/jaguard/experiments/status.png)](https://drone.io/github.com/jaguard/experiments/latest)
+ Dependencies  | [![Dependencies](https://david-dm.org/jaguard/experiments/status.svg?theme=shields.io)](https://david-dm.org/jaguard/experiments#info=dependencies)
+ Dev Dependencies  | [![Dev Dependencies](https://david-dm.org/jaguard/experiments/dev-status.svg?theme=shields.io)](https://david-dm.org/jaguard/experiments#info=devDependencies)
 
 > Node.js & gulp.js based test project for Github mirroring, Travis-CI builds, Mardown david-dm & shields.io badges integration
 
