@@ -3,11 +3,10 @@
 
 ## Project status
 
------------- | -------------
- Travis-CI build | [![Build Status](http://img.shields.io/travis/jaguard/experiments.svg)](http://travis-ci.org/jaguard/experiments) 
- Drone.io build | [![Build Status](https://drone.io/github.com/jaguard/experiments/status.png)](https://drone.io/github.com/jaguard/experiments/latest)
- Dependencies  | [![Dependencies](https://david-dm.org/jaguard/experiments/status.svg?theme=shields.io)](https://david-dm.org/jaguard/experiments#info=dependencies)
- Dev Dependencies  | [![Dev Dependencies](https://david-dm.org/jaguard/experiments/dev-status.svg?theme=shields.io)](https://david-dm.org/jaguard/experiments#info=devDependencies)
+| Travis-CI build | [![Build Status](http://img.shields.io/travis/jaguard/experiments.svg)](http://travis-ci.org/jaguard/experiments) 
+| Drone.io build | [![Build Status](https://drone.io/github.com/jaguard/experiments/status.png)](https://drone.io/github.com/jaguard/experiments/latest)
+| Dependencies  | [![Dependencies](https://david-dm.org/jaguard/experiments/status.svg?theme=shields.io)](https://david-dm.org/jaguard/experiments#info=dependencies)
+| Dev Dependencies  | [![Dev Dependencies](https://david-dm.org/jaguard/experiments/dev-status.svg?theme=shields.io)](https://david-dm.org/jaguard/experiments#info=devDependencies)
 
 ## Getting Started
 Install the module with: `npm install experiments`
