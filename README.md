@@ -1,7 +1,8 @@
 # `experiments` @ [![Jaguard OSS 100%](http://img.shields.io/badge/Jaguard_OSS-100%-red.svg)](http://oss.jaguard.com) 
 > Node.js & gulp.js based test project for Github mirroring, Travis-CI builds, Mardown david-dm & shields.io badges integration
 
- Status info | Badge 
+## Project status
+
 ------------ | -------------
  Travis-CI build | [![Build Status](http://img.shields.io/travis/jaguard/experiments.svg)](http://travis-ci.org/jaguard/experiments) 
  Drone.io build | [![Build Status](https://drone.io/github.com/jaguard/experiments/status.png)](https://drone.io/github.com/jaguard/experiments/latest)
